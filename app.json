@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "NexForge",
+    "slug": "nexforge-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#030308",
+    "splash": {
+      "backgroundColor": "#030308"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "io.nexforge.mobile"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#030308"
+      },
+      "package": "io.nexforge.mobile"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
